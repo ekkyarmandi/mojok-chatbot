@@ -40,7 +40,7 @@ Below is the source code for downloading online article to as a spread sheet (.c
 
 ## Source Code for Data Scraping pipeline to Vector DB for LLM using RAG system
 
-![images/data-scraping-to-chatbot.png]
+![Alt text](./images/data-scraping-to-chatbot.png)
 Last but not least below is the source code for data scraping pipeline to LLM RAG chatbot.
 
 - Github Repo [link](https://github.com/ekkyarmandi/mojok-chatbot)
