@@ -1,8 +1,13 @@
 langchain==0.3.0
 langchain-chroma==0.1.4
-langchain-groq==0.2.0
 langchain-huggingface==0.1.0
 langchain-openai==0.2.0
 python-decouple==3.8
 requests==2.32.3
 streamlit==1.38.0
+rich==13.8.1
+newspaper3k==0.2.8
+bs4==0.0.2
+scrapy==2.11.2
+pandas==2.2.2
+requests==2.32.3
